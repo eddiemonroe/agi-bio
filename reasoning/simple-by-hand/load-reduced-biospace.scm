@@ -1,6 +1,6 @@
 (use-modules (opencog))
 
-(define REDUCED_BIOSPACE_FILE "reduced-biospace-LY96-TBK1.scm")
+(define REDUCED_BIOSPACE_FILE "biospace-LY96-TBK1.scm")
 ;(define REDUCED_BIOSPACE_FILE "reduced-biospace-PRKCA-ADCY9.scm")
 
 ;(define knowledge-dir "/home/eddie/opencog/bio-data/scheme-representations/")

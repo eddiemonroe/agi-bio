@@ -50,7 +50,7 @@ to longevity.
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Load the atomspace knowledge and rules ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(display "Loading reduced biospace... ")
+(display "Loading biospace... ")
 (load "load-reduced-biospace.scm")
 (load "background-knowledge-full.scm")
 (load "pln-config.scm")
